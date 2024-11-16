@@ -1,6 +1,6 @@
 {
-  "name": "amazed-rv",
-  "version": "0.0.2",
+  "name": "mettle-reactivity",
+  "version": "0.1.0",
   "description": "Amazed-rv is a reactivity library for building user interfaces on the web.",
   "main": "dist/amazed-rv.esm.js",
   "module": "dist/amazed-rv.esm.js",
