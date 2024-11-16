@@ -1,11 +1,11 @@
 {
   "name": "amazed-rv",
-  "version": "0.0.1",
-  "description": "Strve-rv is a reactivity library for building user interfaces on the web.",
-  "main": "dist/strve-rv.esm.js",
-  "module": "dist/strve-rv.esm.js",
-  "unpkg": "dist/strve-rv.esm.js",
-  "jsdelivr": "dist/strve-rv.esm.js",
+  "version": "0.0.2",
+  "description": "Amazed-rv is a reactivity library for building user interfaces on the web.",
+  "main": "dist/amazed-rv.esm.js",
+  "module": "dist/amazed-rv.esm.js",
+  "unpkg": "dist/amazed-rv.esm.js",
+  "jsdelivr": "dist/amazed-rv.esm.js",
   "author": "maomincoding",
   "files": [
     "dist/*.js"
@@ -16,10 +16,10 @@
   "license": "MIT",
   "private": false,
   "keywords": [
-    "strve",
-    "strvejs",
-    "strve-js",
-    "strve-rv",
+    "amazed",
+    "amazedjs",
+    "amazed-js",
+    "amazed-rv",
     "reactivity",
     "dom",
     "mvvm",
@@ -30,12 +30,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strveJs/strve-rv.git"
+    "url": "git+https://github.com/maomincoding/amazed-rv.git"
   },
   "bugs": {
-    "url": "https://github.com/strveJs/strve-rv/issues"
+    "url": "https://github.com/maomincoding/amazed-rv/issues"
   },
-  "homepage": "https://github.com/strveJs/strve-rv#readme",
+  "homepage": "https://github.com/maomincoding/amazed-rv#readme",
   "dependencies": {
     "@vue/reactivity": "3.5.12"
   },

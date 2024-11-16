@@ -1,14 +1,14 @@
-# strve-rv
+# Amazed-rv
 
 ## Introduce
 
-Strve-rv is a reactivity library for building user interfaces on the web.
+Amazed-rv is a reactivity library for building user interfaces on the web.
 
-Powered by [@vue/reactivity](https://github.com/vuejs/core/tree/main/packages/reactivity) and [strve-js](https://github.com/strveJs/strve).
+Powered by [@vue/reactivity](https://github.com/vuejs/core/tree/main/packages/reactivity) and [amazed](https://github.com/maomincoding/amazed).
 
 ## Documentation
 
-To learn more about `strve-rv`, check [its documentation](https://strvejs.github.io/strve-doc/tool/strveRv).
+To learn more about `amazed-rv`, check [its documentation](https://maomincoding.github.io/amazed-doc/tool/amazedRv).
 
 ## License
 
