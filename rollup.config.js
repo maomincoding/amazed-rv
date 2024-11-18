@@ -4,7 +4,7 @@ const version = require('./package.json').version;
 
 const banner =
   '/*!\n' +
-  ` * Amazed-rv v${version}\n` +
+  ` * Mettle-reactivity v${version}\n` +
   ` * (c) 2024-${new Date().getFullYear()} maomincoding\n` +
   ' * Released under the MIT License.\n' +
   ' */';
@@ -13,7 +13,7 @@ const config = {
   input: './lib/core.js',
   output: {
     banner,
-    file: './dist/amazed-rv.esm.js',
+    file: './dist/mettle-reactivity.esm.js',
     format: 'esm',
   },
   plugins: [terser()],

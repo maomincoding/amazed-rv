@@ -1,11 +1,11 @@
 {
   "name": "mettle-reactivity",
-  "version": "0.1.0",
-  "description": "Amazed-rv is a reactivity library for building user interfaces on the web.",
-  "main": "dist/amazed-rv.esm.js",
-  "module": "dist/amazed-rv.esm.js",
-  "unpkg": "dist/amazed-rv.esm.js",
-  "jsdelivr": "dist/amazed-rv.esm.js",
+  "version": "0.1.2",
+  "description": "A reactivity library for building user interfaces on the web.",
+  "main": "dist/mettle-reactivity.esm.js",
+  "module": "dist/mettle-reactivity.esm.js",
+  "unpkg": "dist/mettle-reactivity.esm.js",
+  "jsdelivr": "dist/mettle-reactivity.esm.js",
   "author": "maomincoding",
   "files": [
     "dist/*.js"
@@ -16,10 +16,9 @@
   "license": "MIT",
   "private": false,
   "keywords": [
-    "amazed",
-    "amazedjs",
-    "amazed-js",
-    "amazed-rv",
+    "mettle",
+    "mettle-js",
+    "mettle-reactivity",
     "reactivity",
     "dom",
     "mvvm",
@@ -30,12 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maomincoding/amazed-rv.git"
+    "url": "git+https://github.com/maomincoding/mettle-reactivity.git"
   },
   "bugs": {
-    "url": "https://github.com/maomincoding/amazed-rv/issues"
+    "url": "https://github.com/maomincoding/mettle-reactivity/issues"
   },
-  "homepage": "https://github.com/maomincoding/amazed-rv#readme",
+  "homepage": "https://github.com/maomincoding/mettle-reactivity#readme",
   "dependencies": {
     "@vue/reactivity": "3.5.12"
   },
